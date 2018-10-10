@@ -1,0 +1,10 @@
+c:\users\fujitsu\source\repos\AXA_price_calc\AXA_price_calc\bin\Release\AXA_price_calc.exe.config
+c:\users\fujitsu\source\repos\AXA_price_calc\AXA_price_calc\bin\Release\AXA_price_calc.exe
+c:\users\fujitsu\source\repos\AXA_price_calc\AXA_price_calc\bin\Release\AXA_price_calc.pdb
+c:\users\fujitsu\source\repos\AXA_price_calc\AXA_price_calc\obj\Release\AXA_price_calc.CurrencyConverter.resources
+c:\users\fujitsu\source\repos\AXA_price_calc\AXA_price_calc\obj\Release\AXA_price_calc.Form1.resources
+c:\users\fujitsu\source\repos\AXA_price_calc\AXA_price_calc\obj\Release\AXA_price_calc.Properties.Resources.resources
+c:\users\fujitsu\source\repos\AXA_price_calc\AXA_price_calc\obj\Release\AXA_price_calc.csproj.GenerateResource.cache
+c:\users\fujitsu\source\repos\AXA_price_calc\AXA_price_calc\obj\Release\AXA_price_calc.csproj.CoreCompileInputs.cache
+c:\users\fujitsu\source\repos\AXA_price_calc\AXA_price_calc\obj\Release\AXA_price_calc.exe
+c:\users\fujitsu\source\repos\AXA_price_calc\AXA_price_calc\obj\Release\AXA_price_calc.pdb
